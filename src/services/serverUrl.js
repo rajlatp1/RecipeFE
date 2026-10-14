@@ -1,1 +1,1 @@
-export const serverUrl = import.meta.env.backendUrl
+export const serverUrl = import.meta.env.viteBackendUrl
